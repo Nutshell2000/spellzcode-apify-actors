@@ -85,6 +85,24 @@ Made and maintained by SpellzCode. Not affiliated with LinkedIn, Google, TikTok,
 |---|---|---|
 | [Google News Scraper API: Real Publisher URLs](https://apify.com/spellzcode/google-news-scraper) | Search Google News by keyword or topic in 36 editions and get each article's title, publisher, date and its real publisher URL (not the news.google.com redirect). Time... | $2 per 1,000 (per article returned) |
 
+## Working examples (Node.js and Python)
+
+| Example repo | Actor |
+|---|---|
+| [linkedin-profile-scraper-no-login](https://github.com/Nutshell2000/linkedin-profile-scraper-no-login) | LinkedIn profiles by link, no login |
+| [tiktok-profile-scraper](https://github.com/Nutshell2000/tiktok-profile-scraper) | TikTok followers, likes, bio |
+| [threads-profile-scraper](https://github.com/Nutshell2000/threads-profile-scraper) | Threads followers, bio, recent posts |
+| [website-email-extractor](https://github.com/Nutshell2000/website-email-extractor) | Emails, phones, socials from websites |
+| [bulk-email-list-cleaner](https://github.com/Nutshell2000/bulk-email-list-cleaner) | Email list validation |
+| [sweden-new-companies-list](https://github.com/Nutshell2000/sweden-new-companies-list) | New Swedish companies from Bolagsverket |
+| [pdf-to-text-ocr-api](https://github.com/Nutshell2000/pdf-to-text-ocr-api) | PDF to text with OCR |
+
+## Guides
+
+- [Keep your CRM's job titles current from LinkedIn profile links](https://dev.to/spellzcode/keep-your-crms-job-titles-current-from-linkedin-profile-links-without-logging-in-or-using-cookies-3pkk)
+- [Every new Swedish company from the last 30 days as a spreadsheet](https://dev.to/spellzcode/every-new-swedish-company-from-the-last-30-days-as-a-spreadsheet-from-bolagsverkets-open-data-49ee)
+- [Getting the contact email from 500 company websites](https://dev.to/spellzcode/getting-the-contact-email-from-500-company-websites-hidden-addresses-junk-matches-and-dead-domains-3ehn)
+- [Detecting scanned PDFs and when OCR is worth it](https://dev.to/spellzcode/your-pdf-to-text-pipeline-is-silently-returning-empty-pages-detecting-scanned-pdfs-and-when-ocr-is-40d4)
 ## Calling one from code
 
 ```js
