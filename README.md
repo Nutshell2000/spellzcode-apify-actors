@@ -10,7 +10,7 @@ Made and maintained by SpellzCode. Not affiliated with LinkedIn, Google, TikTok,
 
 | Actor | What it does | Price |
 |---|---|---|
-| [LinkedIn Profile Scraper API: Public Profiles](https://apify.com/spellzcode/linkedin-profile-data) | Get public LinkedIn profiles from a list of links: name, headline, about, location, followers, experience and education as shown publicly. No login or cookies needed.... | $3 per 1,000 (per profile found) |
+| [LinkedIn Profile Scraper: Full Profiles, No Login](https://apify.com/spellzcode/linkedin-profile-data) | Full public LinkedIn profiles from links: current job, every position with title and dates, education, skills, certifications. No login or cookies. | $2 per 1,000 (per profile found) |
 | [Google Ads Transparency Scraper API: Ads by Domain](https://apify.com/spellzcode/google-ads-transparency-scraper) | Get every ad a company runs on Google Search, YouTube, Display and Maps from the Google Ads Transparency Center: format, first and last shown dates, image and preview... | $1 per 1,000 (per ad returned) |
 | [Tech Stack Detector API: CMS, Ecommerce, Analytics](https://apify.com/spellzcode/website-tech-stack-detector) | Find out what any website is built with. Checks a list of websites for their CMS, ecommerce platform, JavaScript framework, analytics, ad pixels, chat, payments, hosti... | $3 per 1,000 (per website analyzed) |
 | [Email Validator API: Bulk Email List Cleaner](https://apify.com/spellzcode/bulk-email-list-cleaner) | Clean an email list before you send: catches malformed addresses, dead domains, domains that accept no mail, disposable addresses and typos like gmial.com, with a sugg... | $0.5 per 1,000 (per email checked) |
