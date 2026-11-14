@@ -48,8 +48,8 @@ Made and maintained by SpellzCode. Not affiliated with LinkedIn, Google, TikTok,
 |---|---|---|
 | [Telegram Channel Scraper API: Posts & Views](https://apify.com/spellzcode/telegram-channel-scraper) | Get posts from any public Telegram channel without a phone number, bot token or login: text, date, views, reactions, links, hashtags, photos and forwards, plus the cha... | $0.5 per 1,000 (per post returned) |
 | [Substack Scraper API: Posts, Full Text & Comments](https://apify.com/spellzcode/substack-posts-scraper) | Get the posts of any Substack newsletter: title, subtitle, date, authors, full text of free posts, likes, comment and restack counts, tags and links. Filter by date an... | $2 per 1,000 (per post returned) |
-| [TikTok Profile Scraper API: Followers & Likes](https://apify.com/spellzcode/tiktok-profile-data) | Get public TikTok profile stats by username: followers, following, total likes, video count, bio, verified status and links. No login or cookies needed. Accounts not f... | $2 per 1,000 (per profile found) |
-| [Threads Profile Scraper API: Followers & Posts](https://apify.com/spellzcode/threads-profile-data) | Get public Threads profiles by username: followers, bio, verified status and recent posts with likes. No login or cookies needed. Accounts not found are free. Pay per... | $2 per 1,000 (per profile found) |
+| [TikTok Profile Scraper: Exact Followers & Likes](https://apify.com/spellzcode/tiktok-profile-data) | TikTok profiles by username with exact counts: followers, likes, videos, avg likes per video, bio link, business and TikTok Shop seller flags. No login. | $2 per 1,000 (per profile found) |
+| [Threads Profile Scraper: Posts & Engagement](https://apify.com/spellzcode/threads-profile-data) | Threads profiles by username: followers, bio, links, recent posts with likes, replies, reposts and quotes, engagement rate. No login. | $2 per 1,000 (per profile found) |
 
 ## Jobs
 
